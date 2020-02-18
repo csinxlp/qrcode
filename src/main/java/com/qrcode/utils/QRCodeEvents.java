@@ -14,7 +14,7 @@ public class QRCodeEvents {
 		
 		CashierTransRequest cashierTransRequest = new CashierTransRequest();
 		cashierTransRequest.setAppId("20161228qXmovybo");
-		cashierTransRequest.setServiceId("eigpay.sp.paytrans.precreate");
+		cashierTransRequest.setServiceId("xxxx");
 		cashierTransRequest.setFormat("FORM");
 		cashierTransRequest.setCharset("UTF-8");
 		cashierTransRequest.setSignType("signType");
