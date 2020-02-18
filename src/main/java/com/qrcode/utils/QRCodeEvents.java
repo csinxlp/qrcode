@@ -25,7 +25,7 @@ public class QRCodeEvents {
 		cashierTransRequest.setTermId("1");
 		StringBuffer buffer =new StringBuffer(100); 
 		buffer.append(GsonUtils.tojson(cashierTransRequest));
-		String url ="http://172.23.12.1:8080/paytrans-gateway-web-shared/smartpay/ceshi/quick/cashier.htm?"
+		String url ="xxxxxxx"
 				+"tntInstId=1000223"
 				+"&merchantCode=TEST01"
 				+"&appId=20161228qXmovybo"
