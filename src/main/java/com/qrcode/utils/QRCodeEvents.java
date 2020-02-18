@@ -29,7 +29,7 @@ public class QRCodeEvents {
 				+"tntInstId=1000223"
 				+"&merchantCode=TEST01"
 				+"&appId=20161228qXmovybo"
-				+"&serviceId=eigpay.sp.paytrans.precreate"
+				+"&serviceId=www.baidu.com"
 				+"&format=FORM"
 				+"&charset=UTF-8"
 				+"&signType=signType"
